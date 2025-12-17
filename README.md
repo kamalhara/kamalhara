@@ -14,8 +14,6 @@ I build modern, scalable, and performance-focused web applications using the MER
 
 ---
 
-## Skills
-
 ## 🧱 Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
