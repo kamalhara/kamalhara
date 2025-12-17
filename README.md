@@ -54,8 +54,8 @@ I build modern, scalable, and performance-focused web applications using the MER
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/your-username  
-- 🌐 Portfolio: https://your-portfolio.vercel.app  
+- 💼 GitHub: https://github.com/kamalhara
+- 🌐 Portfolio: https://kamal-hara-portfolio.vercel.app
 
 ---
 
