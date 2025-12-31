@@ -3,14 +3,6 @@
 🚀 **Full-Stack Web Developer**  
 I build modern, scalable, and performance-focused web applications using the MERN stack and Next.js.
 
----
-
-## 🧠 About Me
-
-- 🌱 Actively improving my **full-stack & backend skills**
-- 🧩 Comfortable working across frontend and backend
-- 🔐 Experienced with authentication, APIs, and databases
-- 🛠 Believe in clean code, best practices, and real-world projects
 
 ---
 
