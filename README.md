@@ -1,7 +1,7 @@
-# Hi 👋, I'm Kamal
+# Kamalveer Singh
 
 🚀 **Full-Stack Web Developer**  
-I build modern, scalable, and performance-focused web applications using the MERN stack and Next.js.
+
 
 
 ---
