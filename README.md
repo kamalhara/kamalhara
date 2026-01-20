@@ -38,8 +38,8 @@ Building web and mobile applications with modern technologies and cloud services
 ---
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [kamal-hara-portfolio.vercel.app](https://kamal-hara-portfolio.vercel.app)  
-- 💼 GitHub: [github.com/kamalhara](https://github.com/kamalhara)  
+- 🌐 Portfolio:(https://kamal-hara-portfolio.vercel.app)  
+- ✉️ LinkedIn: (https://www.linkedin.com/in/kamalveer-singh-bb7250335)
 
 ---
 
