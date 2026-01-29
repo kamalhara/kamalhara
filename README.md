@@ -33,7 +33,7 @@ Building web and mobile applications with modern technologies and cloud services
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=4B3263) 
-![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325)
+
 
 ---
 ## 📫 Connect With Me
