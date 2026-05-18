@@ -43,4 +43,4 @@ Building web and mobile applications with modern technologies and cloud services
 
 ---
 
-⭐ *Learning every day. Building real things in Full-Stack and Mobile development.*
+ *Learning every day. Building real things in Full-Stack and Mobile development.*
